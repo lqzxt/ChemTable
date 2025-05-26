@@ -3,7 +3,7 @@
 
 ChemTable is the first large-scale benchmark designed to test the capabilities of multimodal large language models (MLLMs) in understanding **real-world chemical tables**—one of the most information-dense and visually complex formats in scientific literature.
 
-![Chemical Table Overview](img/dataset_info.png)
+<img src="img/dataset_info.png" width="60%" />
 
 
 
@@ -48,15 +48,13 @@ ChemTable is the first large-scale benchmark designed to test the capabilities o
 
 ### 🤖 Table Understanding
 
-
-![Table Understanding](img/qa_case.png)
-
+<img src="img/qa_case.png" width="60%" />
 
 ---
 
 ## 🔬 Experimental Results
 
-![Result](img/result.png)
-![TR Result](img/tr_res.png)
+<img src="img/tr_res.png" width="60%" />
+<img src="img/result.png" width="60%" />
 
 <image>
