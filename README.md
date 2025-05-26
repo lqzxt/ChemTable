@@ -27,7 +27,7 @@ ChemTable is the first large-scale benchmark designed to test the capabilities o
 
 ## 🧩 Dataset Structure
 
-![case](img/dataset_case.png)
+<img src="img/dataset_case.png" width="60%" />
 
 - **Table Types**: Reaction optimization, substrate screening, property comparison, molecular structure tables, and more.
 - **Visual Annotations**: Bounding boxes, styles (bold/color), molecule diagrams.
