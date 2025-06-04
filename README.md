@@ -1,7 +1,7 @@
 # 🧪 ChemTable: Benchmarking Multimodal LLMs on Recognition and Understanding over Chemical Tables
 
 
-ChemTable is the first large-scale benchmark designed to test the capabilities of multimodal large language models (MLLMs) in understanding **real-world chemical tables**—one of the most information-dense and visually complex formats in scientific literature.
+ChemTable is a large-scale benchmark designed to test the capabilities of multimodal large language models (MLLMs) in understanding **real-world chemical tables**—one of the most information-dense and visually complex formats in scientific literature.
 
 <img src="img/dataset_info.png" width="100%" />
 
