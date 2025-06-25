@@ -3,7 +3,7 @@
 
 ChemTable is a large-scale benchmark designed to test the capabilities of multimodal large language models (MLLMs) in understanding **real-world chemical tables**—one of the most information-dense and visually complex formats in scientific literature.
 
-<img src="img/dataset_info.png" width="50%" />
+<img src="img/dataset_info.png" width="100%" />
 
 
 
@@ -27,7 +27,7 @@ ChemTable is a large-scale benchmark designed to test the capabilities of multim
 
 ## 🧩 Dataset Structure
 
-<img src="img/dataset_case.png" width="50%" />
+<img src="img/dataset_case.png" width="100%" />
 
 - **Table Types**: Reaction optimization, substrate screening, property comparison, molecular structure tables, and more.
 - **Visual Annotations**: Bounding boxes, styles (bold/color), molecule diagrams.
@@ -48,14 +48,14 @@ ChemTable is a large-scale benchmark designed to test the capabilities of multim
 
 ### 🤖 Table Understanding
 
-<img src="img/qa_case.png" width="50%" />
+<img src="img/qa_case.png" width="100%" />
 
 ---
 
 ## 🔬 Experimental Results
 
-<img src="img/tr_res.png" width="50%" />
-<img src="img/result.png" width="50%" />
+<img src="img/tr_res.png" width="100%" />
+<img src="img/result.png" width="100%" />
 
 ---
 
