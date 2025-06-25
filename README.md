@@ -48,13 +48,38 @@ ChemTable is a large-scale benchmark designed to test the capabilities of multim
 
 ### 🤖 Table Understanding
 
-<img src="img/qa_case.png" width="100%" />
+<img src="img/qa_case.png" width="60%" />
 
 ---
 
 ## 🔬 Experimental Results
 
-<img src="img/tr_res.png" width="100%" />
-<img src="img/result.png" width="100%" />
+<img src="img/tr_res.png" width="60%" />
+<img src="img/result.png" width="60%" />
 
-<image>
+---
+
+## 🛠️ Getting Started
+
+### Dataset
+
+The dataset is available at [HuggingFace Datasets](https://huggingface.co/datasets/ustc-zyt/ChemTable). You can download it directly or use the Hugging Face Datasets library:
+
+```python
+from datasets import load_dataset
+dataset = load_dataset("ustc-zyt/ChemTable")
+```
+
+### Evaluation Scripts
+
+The `eval/` directory contains evaluation scripts organized by tasks:
+
+- `smiles_eval.py`: Molecular structure recognition evaluation
+- `TR_eval.py`: General table structure recognition evaluation
+- `benzene_ring_eval.py`: Specific evaluation for benzene ring detection
+- `evaluate_table_qa.py`: General QA evaluation
+- `visual_reasoning_eval.py`: Visual reasoning capability evaluation
+- `logical_reasoning_trend_eval.py`: Logical reasoning evaluation
+- `multihop_reference_eval.py`: Multi-hop reasoning evaluation
+
+Each script can be run independently and includes its own command-line arguments for customization. Check the script headers for specific usage instructions.
