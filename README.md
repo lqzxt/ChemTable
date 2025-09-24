@@ -63,12 +63,8 @@ ChemTable is a large-scale benchmark designed to test the capabilities of multim
 
 ### Dataset
 
-The dataset is available at [HuggingFace Datasets](https://huggingface.co/datasets/ustc-zyt/ChemTable). You can download it directly or use the Hugging Face Datasets library:
-
-```python
-from datasets import load_dataset
-dataset = load_dataset("ustc-zyt/ChemTable")
-```
+A copy of the dataset is included directly in this repository for convenience.  
+Please refer to the `data/` directory for access and usage.
 
 ### Evaluation Scripts
 
