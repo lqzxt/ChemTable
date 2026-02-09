@@ -5,7 +5,9 @@ ChemTable is a large-scale benchmark designed to test the capabilities of multim
 
 <img src="img/dataset_info.png" width="100%" />
 
+## 📢 Data Open-Source on Hugging Face
 
+We are excited to announce that the **ChemTable dataset** is now fully open-sourced and available on [Hugging Face](https://huggingface.co/datasets/ustc-zyt/ChemTable).  
 
 > 📘 Built from over 1,300 tables from high-impact chemistry journals, ChemTable combines **visual, textual, symbolic**, and **domain-specific** information to push the boundaries of scientific AI.
 
